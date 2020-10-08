@@ -23,14 +23,14 @@ DEFAULTUSER = (
     str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
 )
 CUSTOM_MIDDLE_PMP = (
-    str(CUSTOM_PMPERMIT) if CUSTOM_PMPERMIT else "Protection By Friday 🇮🇳"
+    str(CUSTOM_PMPERMIT) if CUSTOM_PMPERMIT else "**Don't_Spam_My_Master's_Inbox_Or_Else_You'll_Be_Blocked.!**"
 )
-USER_BOT_WARN_ZERO = "You Have Attempted To Spam Masters Inbox So Inorder To Avoid Over Spam , You Have Been Blocked By Userbot"
+USER_BOT_WARN_ZERO = "You Have Attempted To Spam My Master's Inbox So In Order To Avoid Over Spam, You Have Been Blocked By UserBot"
 USER_BOT_NO_WARN = (
-    "**Hello,This is Friday Protection Service ⚠️**\n\n"
-    f"`My Master {DEFAULTUSER} is Busy Right Now !`"
-    "__You May Leave A Request And Wait Till He Approves You.__ \n\n"
-    "**Now You Are In Trouble. So Send** `/start` **And Register A Request** \n\n"
+    "**`Hello.! This is` F.R.I.D.A.Y \n Private Messaging Protection Service.! ⚠️**\n\n"
+    f"`My Master {DEFAULTUSER} is Busy Right Now !`\n"
+    "__You Have Trespassed To My Master's Inbox\n `This Is Illegal And Regarded As Crime.`__ \n\n"
+    "**Now You Are In Trouble. So Send** `/start` **To Start A Valid Conversation.!** \n\n"
     f"**{CUSTOM_MIDDLE_PMP}**"
 )
 
